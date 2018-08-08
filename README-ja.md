@@ -1729,7 +1729,7 @@ Notes
 * [Pinterest Engineering Blog](http://engineering.pinterest.com/)
 * [Quora Engineering](https://engineering.quora.com/)
 * [Reddit Blog](http://www.redditblog.com/)
-* [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/)
+* [Salesforce Engineering Blog](https://engineering.salesforce.com/)
 * [Slack Engineering Blog](https://slack.engineering/)
 * [Spotify Labs](https://labs.spotify.com/)
 * [Twilio Engineering Blog](http://www.twilio.com/engineering)
